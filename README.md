@@ -1,7 +1,7 @@
 <p align="center">
  <img align="center" src="https://raw.githubusercontent.com/huntabyte/shadcn-svelte/main/apps/www/static/android-chrome-192x192.png" height="96" />
  <h1 align="center">
- midas-svelte
+ midas-tiger-svelte
  </h1>
 </p>
 
